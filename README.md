@@ -19,47 +19,48 @@
 ##List of Free/Open-Source CMS
 
 ###Dropplets
-Licence: ?
-Description: Dropplets is a minimalist Markdown blogging platform focused on delivering just what you need in a blogging solution, but absolutely nothing you don't. Admin: YES
-Langage: PHP
-Editor: Markdown
-Template System/ Langage: PHP
-Documentation: VERY Small
-Plugin: ?
-Multilangage: ?
-Media-friendly: ?
-Website: <http://dropplets.com/>
-Github: <https://github.com/circa75/dropplets>
-Tested: No
+Licence: ?  
+Description: Dropplets is a minimalist Markdown blogging platform focused on delivering just what you need in a blogging solution, but absolutely nothing you don't. 
+Admin: YES  
+Langage: PHP  
+Editor: Markdown  
+Template System/ Langage: PHP  
+Documentation: VERY Small  
+Plugin: ?  
+Multilangage: ?  
+Media-friendly: ?  
+Website: <http://dropplets.com/>  
+Github: <https://github.com/circa75/dropplets>  
+Tested: No  
 
 ###Get Simple
-Licence: GNU GPL
-Admin: YES
-Langage: PHP
-Editor: XML
-Template System/ Langage: PHP
-Documentation: Wiki, not really good
-Plugin: YES
-Multilangage: YES
-Media-friendly: ?
-Website: <http://get-simple.info/>
-Github: <https://github.com/GetSimpleCMS/GetSimpleCMS>
-Tested: No
+Licence: GNU GPL  
+Admin: YES  
+Langage: PHP  
+Editor: XML  
+Template System/ Langage: PHP  
+Documentation: Wiki, not really good  
+Plugin: YES  
+Multilangage: YES  
+Media-friendly: ?  
+Website: <http://get-simple.info/>  
+Github: <https://github.com/GetSimpleCMS/GetSimpleCMS>  
+Tested: No  
 
 ###SiteCake
-Licence: GNU GPL2
-Description: Sitecake is an easy to use CMS (Content Managament System) for small websites, with a WYSIWYG, drag&drop editor. 
-Admin: YES / InContent-Edit
-Langage: PHP
-Editor: HTML / InContent-Edit
-Template System/ Langage: HTML
-Documentation: Small
-Plugin: ?
-Multilangage: ?
-Media-friendly: ?
-Website: <http://sitecake.com/>
-Github: <https://github.com/sitecake/sitecake>
-Tested: No
+Licence: GNU GPL2  
+Description: Sitecake is an easy to use CMS (Content Managament System) for small websites, with a WYSIWYG, drag&drop editor.   
+Admin: YES / InContent-Edit  
+Langage: PHP  
+Editor: HTML / InContent-Edit  
+Template System/ Langage: HTML  
+Documentation: Small  
+Plugin: ?  
+Multilangage: ?  
+Media-friendly: ?  
+Website: <http://sitecake.com/>  
+Github: <https://github.com/sitecake/sitecake>  
+Tested: No  
 
 ##To compare
 - <http://jekyllrb.com/>
