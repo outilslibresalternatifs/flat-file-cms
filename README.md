@@ -62,20 +62,20 @@ Github: <https://github.com/sitecake/sitecake>
 Tested: No
 
 ##To compare
-<http://jekyllrb.com/>
-<http://www.fork-cms.com/>
-<http://anchorcms.com/>
-<https://bolt.cm/> (MIT Licence)
-<http://picocms.org/>
-<http://getgrav.org/>
-<http://monstra.org/>
-<http://wondercms.com/>
-<http://bauncms.com/> (MIT Licence)
-<http://automad.org/> (MIT Licence)
-<https://www.htmly.com/> (GPL)
-<http://www.tinycms.eu/> (GPL)
-<http://www.razorcms.co.uk/> (GPL V3)
-<http://gohugo.io/> (SimPL-2.0)
+- <http://jekyllrb.com/>
+- <http://www.fork-cms.com/>
+- <http://anchorcms.com/>
+- <https://bolt.cm/> (MIT Licence)
+- <http://picocms.org/>
+- <http://getgrav.org/>
+- <http://monstra.org/>
+- <http://wondercms.com/>
+- <http://bauncms.com/> (MIT Licence)
+- <http://automad.org/> (MIT Licence)
+- <https://www.htmly.com/> (GPL)
+- <http://www.tinycms.eu/> (GPL)
+- <http://www.razorcms.co.uk/> (GPL V3)
+- <http://gohugo.io/> (SimPL-2.0)
 
 ##List of non Free/Open-Source CMS
 - <http://statamic.com/>
